@@ -1,0 +1,8 @@
+@import "@arcgis/core/assets/esri/themes/light/main.css"; 
+/* map view repeats itself if you don't import this */
+
+#arcgis-map {
+  height: 600px;
+  width: 800px;
+  margin: 1em;
+}

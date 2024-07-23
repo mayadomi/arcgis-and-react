@@ -1,0 +1,12 @@
+.tableView {
+    margin: 1em;
+}
+
+td, th {
+    outline: 1px solid #000;
+    padding: 4px;
+}
+
+td:hover {
+    background-color: #259dc2;
+}

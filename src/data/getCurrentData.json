@@ -1,0 +1,154 @@
+{
+    "isSuccess": true,
+    "message": null,
+    "data": {
+      "world": {
+        "name": "A mythiiical world with all sorts of magic places"
+      },
+      "placeOverviewItems": [
+        {
+          "placeName": "Place01",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.514647176,
+            "longitude": 153.1682327
+          }
+        },
+        {
+          "placeName": "Place02",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.314647984,
+            "longitude": 152.8582968
+          }
+        },
+        {
+          "placeName": "Place03",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.214643251,
+            "longitude": 152.9689881
+          }
+        },
+        {
+          "placeName": "Place04",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.515961851,
+            "longitude": 153.125635191
+          }
+        },
+        {
+          "placeName": "Place05",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.614561277,
+            "longitude": 153.1338958
+          }
+        },
+        {
+          "placeName": "Place06",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.594349314,
+            "longitude": 153.12689538
+          }
+        },
+        {
+          "placeName": "Place07",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.4515115502,
+            "longitude": 152.95892226
+          }
+        },
+        {
+          "placeName": "Place08",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.554897176,
+            "longitude": 152.99482327
+          }
+        },
+        {
+          "placeName": "Place09",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.651483176,
+            "longitude": 153.12482327
+          }
+        },
+        {
+          "placeName": "Place10",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.4814047176,
+            "longitude": 153.1182327
+          }
+        },
+        {
+          "placeName": "Place11",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.514933146,
+            "longitude": 153.17261224
+          }
+        },
+        {
+          "placeName": "Place13",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.43469661,
+            "longitude": 152.91123734
+          }
+        },
+        {
+          "placeName": "Place14",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.46556773,
+            "longitude": 152.5585666
+          }
+        },
+        {
+          "placeName": "Place15",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.515270401,
+            "longitude": 153.13143103
+          }
+        },
+        {
+          "placeName": "Place17",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.58894145,
+            "longitude": 152.89982327
+          }
+        },
+        {
+          "placeName": "Place18",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.532457176,
+            "longitude": 153.1382327
+          }
+        },
+        {
+          "placeName": "Place19",
+          "placeLocation": null,
+          "placeCoordinates": {
+            "latitude": -27.49897176,
+            "longitude": 153.11582555
+          }
+        },
+        {
+          "placeName": "Place20",
+          "placeCoordinates": {
+            "latitude": -27.68897176,
+            "longitude": 153.2782327
+          }
+        }
+      ]
+    }
+  }
