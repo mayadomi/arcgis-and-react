@@ -4,7 +4,6 @@ import MapView from "@arcgis/core/views/MapView.js";
 import { fetchPoints } from "../../hooks/fetchPoints.ts";
 import Home from "@arcgis/core/widgets/Home.js";
   
-
 export const init = async (elementRef: HTMLDivElement) => {
 
   const points = await fetchPoints();
